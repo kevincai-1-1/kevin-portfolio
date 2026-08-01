@@ -11,11 +11,11 @@ If you do not have a link yet, leave that section as an empty list: []
 */
 
 const studentProfile = {
-  name: "Your Name",
+  name: "Kevin Cai",
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
+  bio: "My name is Kevin Cai and I am interested in biology and human development and neurodevelopment. Through the DREAM-High program, I wish to learn more about tumor types and gene expressions, I hope to enhance my computer programming skills and proficiently apply them to solving problems in biochemistry. I am excited to explore analyzing biological systems and interpreting massive data sets through computer science.",
 
   /*
   Optional photo:
