@@ -1,3 +1,11 @@
+/*
+DREAM-High Portfolio Template
+STUDENTS:
+Edit only this file.
+Replace the example text with your own information.
+Keep the quotation marks around your words.
+If you do not have a link yet, leave that section as an empty list: []
+*/
 const studentProfile = {
   name: "Kevin Cai",
 
