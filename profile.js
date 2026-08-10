@@ -39,12 +39,19 @@ const studentProfile = {
   rpubs: [
     {
       title: "Introduction to R",
-      url: "https://rpubs.com/"
+      url: "https://rpubs.com/KevinCai/1447070/"
     },
     {
       title: "Finding Patterns with Heatmaps",
-      url: "https://rpubs.com/"
-    }
+      url: "https://rpubs.com/KevinCai/1448242/"
+    }， {
+      title: "Gene Expression Heatmaps",
+      url: "https://rpubs.com/KevinCai/1449091"
+    },
+    {
+      title: "Cancer Cell Line",
+      url: "https://rpubs.com/KevinCai/1451081"
+    },
   ],
 
   /*
