@@ -1,15 +1,3 @@
-/*
-DREAM-High Portfolio Template
-
-STUDENTS:
-Edit only this file.
-
-Replace the example text with your own information.
-Keep the quotation marks around your words.
-
-If you do not have a link yet, leave that section as an empty list: []
-*/
-
 const studentProfile = {
   name: "Kevin Cai",
 
@@ -17,25 +5,10 @@ const studentProfile = {
 
   bio: "My name is Kevin Cai and I am interested in biology and human development and neurodevelopment. Through the DREAM-High program, I wish to learn more about tumor types and gene expressions, I hope to enhance my computer programming skills and proficiently apply them to solving problems in biochemistry. I am excited to explore analyzing biological systems and interpreting massive data sets through computer science.",
 
-  /*
-  Optional photo:
-  1. Upload a photo file to this GitHub repository.
-  2. Rename it profile.jpg.
-  3. Change the line below to: photo: "profile.jpg"
-
-  If you do not want to use a photo, leave this as an empty string.
-  */
   photo: "profile.jpg",
 
   contact: "Contact information available upon request.",
 
-  /*
-  RPubs activities:
-  Add as many RPubs links as you want.
-
-  To add another activity, copy one of the blocks below.
-  Each block needs a title and a url.
-  */
   rpubs: [
     {
       title: "Introduction to R",
@@ -44,31 +17,23 @@ const studentProfile = {
     {
       title: "Finding Patterns with Heatmaps",
       url: "https://rpubs.com/KevinCai/1448242/"
-    }， {
+    },
+    {
       title: "Gene Expression Heatmaps",
       url: "https://rpubs.com/KevinCai/1449091"
     },
     {
       title: "Cancer Cell Line",
       url: "https://rpubs.com/KevinCai/1451081"
-    },
+    }
   ],
 
-  /*
-  Final project:
-  This can link to a Google Doc, Google Slides presentation,
-  RPubs page, GitHub repository, PDF, or other final project page.
-  */
   finalProject: {
-    title: "My DREAM-High Final Project",
+    title: "Milestones in Cancer Research Development",
     description: "I will examine the milestones in the development of cancer research.",
     url: "https://docs.google.com/presentation/d/1I_fzTMDSkLeWaiITsEgJyZXlVkTfscZcZXVCkQYTtN0/edit?slide=id.p13#slide=id.p13"
   },
 
-  /*
-  GitHub links:
-  You can link to your GitHub profile or specific project repositories.
-  */
   github: [
     {
       title: "My GitHub Profile",
