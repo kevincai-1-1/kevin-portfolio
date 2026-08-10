@@ -62,7 +62,7 @@ const studentProfile = {
   finalProject: {
     title: "My DREAM-High Final Project",
     description: "I will examine the milestones in the development of cancer research.",
-    url: ""
+    url: "https://docs.google.com/presentation/d/1I_fzTMDSkLeWaiITsEgJyZXlVkTfscZcZXVCkQYTtN0/edit?slide=id.p13#slide=id.p13"
   },
 
   /*
